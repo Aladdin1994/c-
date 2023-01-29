@@ -1,0 +1,14 @@
+C:\Users\V-COMP\source\repos\bazar\bazar\obj\Debug\netcoreapp3.1\bazar.csproj.AssemblyReference.cache
+C:\Users\V-COMP\source\repos\bazar\bazar\obj\Debug\netcoreapp3.1\bazar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V-COMP\source\repos\bazar\bazar\obj\Debug\netcoreapp3.1\bazar.AssemblyInfoInputs.cache
+C:\Users\V-COMP\source\repos\bazar\bazar\obj\Debug\netcoreapp3.1\bazar.AssemblyInfo.cs
+C:\Users\V-COMP\source\repos\bazar\bazar\obj\Debug\netcoreapp3.1\bazar.csproj.CoreCompileInputs.cache
+C:\Users\V-COMP\source\repos\bazar\bazar\bin\Debug\netcoreapp3.1\bazar.exe
+C:\Users\V-COMP\source\repos\bazar\bazar\bin\Debug\netcoreapp3.1\bazar.deps.json
+C:\Users\V-COMP\source\repos\bazar\bazar\bin\Debug\netcoreapp3.1\bazar.runtimeconfig.json
+C:\Users\V-COMP\source\repos\bazar\bazar\bin\Debug\netcoreapp3.1\bazar.runtimeconfig.dev.json
+C:\Users\V-COMP\source\repos\bazar\bazar\bin\Debug\netcoreapp3.1\bazar.dll
+C:\Users\V-COMP\source\repos\bazar\bazar\bin\Debug\netcoreapp3.1\bazar.pdb
+C:\Users\V-COMP\source\repos\bazar\bazar\obj\Debug\netcoreapp3.1\bazar.dll
+C:\Users\V-COMP\source\repos\bazar\bazar\obj\Debug\netcoreapp3.1\bazar.pdb
+C:\Users\V-COMP\source\repos\bazar\bazar\obj\Debug\netcoreapp3.1\bazar.genruntimeconfig.cache
