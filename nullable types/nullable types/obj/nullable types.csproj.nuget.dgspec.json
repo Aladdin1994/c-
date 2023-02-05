@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\V-COMP\\source\\repos\\nullable types\\nullable types\\nullable types.csproj": {}
+    "C:\\Users\\V-COMP\\source\\repos\\c-\\nullable types\\nullable types\\nullable types.csproj": {}
   },
   "projects": {
-    "C:\\Users\\V-COMP\\source\\repos\\nullable types\\nullable types\\nullable types.csproj": {
+    "C:\\Users\\V-COMP\\source\\repos\\c-\\nullable types\\nullable types\\nullable types.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\V-COMP\\source\\repos\\nullable types\\nullable types\\nullable types.csproj",
+        "projectUniqueName": "C:\\Users\\V-COMP\\source\\repos\\c-\\nullable types\\nullable types\\nullable types.csproj",
         "projectName": "nullable types",
-        "projectPath": "C:\\Users\\V-COMP\\source\\repos\\nullable types\\nullable types\\nullable types.csproj",
+        "projectPath": "C:\\Users\\V-COMP\\source\\repos\\c-\\nullable types\\nullable types\\nullable types.csproj",
         "packagesPath": "C:\\Users\\V-COMP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\V-COMP\\source\\repos\\nullable types\\nullable types\\obj\\",
+        "outputPath": "C:\\Users\\V-COMP\\source\\repos\\c-\\nullable types\\nullable types\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\V-COMP\\AppData\\Roaming\\NuGet\\NuGet.Config",

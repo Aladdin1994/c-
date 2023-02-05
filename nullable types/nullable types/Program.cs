@@ -98,10 +98,9 @@ namespace nullable_types
                                 break;
                             }
                         }
-                        
                         if(false)
                         {
-                            Console.WriteLine("no in list");
+                            Console.WriteLine("yox");
                             break;
                         }
 
